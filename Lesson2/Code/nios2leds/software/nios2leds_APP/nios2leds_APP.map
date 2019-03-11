@@ -1,0 +1,836 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                              obj/default/main.o (memcpy)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                              obj/default/main.o (printf)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+                              obj/default/main.o (puts)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o) (strlen)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (___vfprintf_internal_r)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (__sfvwrite_small_dev)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o) (_impure_ptr)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o) (_write_r)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (errno)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (__udivsi3)
+c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o) (__mulsi3)
+../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+                              obj/default/main.o (alt_ic_isr_register)
+../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+                              ../nios2leds_BSP//obj/HAL/src/crt0.o (alt_load)
+../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+                              ../nios2leds_BSP//obj/HAL/src/crt0.o (alt_main)
+../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+                              obj/default/main.o (alt_putstr)
+../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+                              c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o) (write)
+../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o) (jtag_uart)
+../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o) (altera_avalon_jtag_uart_write)
+../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_write.o) (alt_errno)
+../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o) (_alt_tick_rate)
+../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+
+Allocating common symbols
+Common symbol       size              file
+
+alt_irq             0x100             ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+edge_capture        0x4               obj/default/main.o
+errno               0x4               c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+global_edge_capture
+                    0x4               obj/default/main.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x0000000000010000 0x0000000000000020
+memory           0x0000000000010020 0x000000000000ffe0
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ../nios2leds_BSP//obj/HAL/src/crt0.o
+LOAD obj/default/main.o
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+LOAD ../nios2leds_BSP/\libhal_bsp.a
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a
+                0x0000000000010000                __alt_mem_memory = 0x10000
+
+.entry          0x0000000000010000        0x0
+ *(.entry)
+ .entry         0x0000000000010000        0x0 ../nios2leds_BSP//obj/HAL/src/crt0.o
+                0x0000000000010000                _exit
+                0x0000000000010000                __reset
+
+.exceptions     0x0000000000010020      0x1a0
+                0x0000000000010020                PROVIDE (__ram_exceptions_start, ABSOLUTE (.))
+                0x0000000000010020                . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+                0x0000000000010020                alt_irq_entry
+ .exceptions.entry.label
+                0x0000000000010020        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+                0x0000000000010020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x0000000000010020       0x54 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x0000000000010074       0x10 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x0000000000010084        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x0000000000010088        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x000000000001008c        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x000000000001008c        0x8 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x0000000000010094        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x0000000000010098        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x0000000000010098        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x0000000000010098       0x54 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x00000000000100ec       0xd4 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+                0x00000000000100ec                alt_irq_handler
+                0x00000000000101c0                PROVIDE (__ram_exceptions_end, ABSOLUTE (.))
+                0x0000000000010020                PROVIDE (__flash_exceptions_start, LOADADDR (.exceptions))
+
+.text           0x00000000000101c0     0x1770
+                [!provide]                        PROVIDE (stext, ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00000000000101c0       0x3c ../nios2leds_BSP//obj/HAL/src/crt0.o
+                0x00000000000101c0                _start
+ .text          0x00000000000101fc      0x42c obj/default/main.o
+                0x000000000001039c                main
+ .text          0x0000000000010628        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .text.memcpy   0x0000000000010628       0x28 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                0x0000000000010628                memcpy
+ .text          0x0000000000010650        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .text._printf_r
+                0x0000000000010650       0x3c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                0x0000000000010650                _printf_r
+ .text.printf   0x000000000001068c       0x4c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                0x000000000001068c                printf
+ .text          0x00000000000106d8        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .text._puts_r  0x00000000000106d8       0x80 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+                0x00000000000106d8                _puts_r
+ .text.puts     0x0000000000010758       0x14 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+                0x0000000000010758                puts
+ .text          0x000000000001076c        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .text.strlen   0x000000000001076c       0x1c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                0x000000000001076c                strlen
+ .text          0x0000000000010788        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .text.print_repeat
+                0x0000000000010788       0x6c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .text.___vfprintf_internal_r
+                0x00000000000107f4      0x52c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                0x00000000000107f4                ___vfprintf_internal_r
+ .text.__vfprintf_internal
+                0x0000000000010d20       0x1c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                0x0000000000010d20                __vfprintf_internal
+ .text          0x0000000000010d3c        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .text.__sfvwrite_small_dev
+                0x0000000000010d3c       0xb8 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                0x0000000000010d3c                __sfvwrite_small_dev
+ .text          0x0000000000010df4        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .text          0x0000000000010df4        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .text._write_r
+                0x0000000000010df4       0x58 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                0x0000000000010df4                _write_r
+ .text          0x0000000000010e4c        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .text          0x0000000000010e4c      0x1b4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x0000000000010e4c                __divsi3
+                0x0000000000010ed0                __modsi3
+                0x0000000000010f44                __udivsi3
+                0x0000000000010fa8                __umodsi3
+ .text          0x0000000000011000       0x28 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x0000000000011000                __mulsi3
+ .text          0x0000000000011028      0x1b0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+                0x0000000000011028                alt_ic_isr_register
+                0x0000000000011078                alt_ic_irq_enable
+                0x0000000000011100                alt_ic_irq_disable
+                0x000000000001118c                alt_ic_irq_enabled
+ .text          0x00000000000111d8       0xf0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x00000000000111d8                alt_iic_isr_register
+ .text          0x00000000000112c8        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x00000000000112c8        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x00000000000112c8        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x00000000000112c8       0xec ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+                0x0000000000011330                alt_load
+ .text          0x00000000000113b4       0x54 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+                0x00000000000113b4                alt_main
+ .text          0x0000000000011408       0x48 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+                0x0000000000011408                alt_putstr
+ .text          0x0000000000011450       0xd8 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+                0x000000000001148c                write
+ .text          0x0000000000011528       0x78 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000011528                alt_irq_init
+                0x0000000000011560                alt_sys_init
+ .text          0x00000000000115a0       0x94 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x00000000000115a0                altera_avalon_jtag_uart_write
+ .text          0x0000000000011634       0xf4 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x00000000000116ac                alt_avalon_timer_sc_init
+ .text          0x0000000000011728       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000000000011728                alt_dcache_flush_all
+ .text          0x0000000000011748        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000000000011748        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000000000011748       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000000000011748                alt_icache_flush_all
+ .text          0x0000000000011768      0x1a4 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+                0x0000000000011768                alt_alarm_stop
+                0x0000000000011804                alt_tick
+ .text          0x000000000001190c       0x24 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x000000000001190c                altera_nios2_gen2_irq_init
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext, ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext, ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext, ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000000000011930                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start, ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start, ABSOLUTE (.))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start, ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end, ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__, ABSOLUTE (.))
+ *(.ctors)
+ *(SORT(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__, ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__, ABSOLUTE (.))
+ *(.dtors)
+ *(SORT(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__, ABSOLUTE (.))
+ *(.jcr)
+                0x0000000000011930                . = ALIGN (0x4)
+
+.rodata         0x0000000000011930      0x204
+                0x0000000000011930                PROVIDE (__ram_rodata_start, ABSOLUTE (.))
+                0x0000000000011930                . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000000000011930      0x1ff obj/default/main.o
+ *fill*         0x0000000000011b2f        0x1 
+ .rodata.str1.4
+                0x0000000000011b30        0x4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+                                          0x2 (size before relaxing)
+ *(.rodata1)
+                0x0000000000011b34                . = ALIGN (0x4)
+                0x0000000000011b34                PROVIDE (__ram_rodata_end, ABSOLUTE (.))
+                0x0000000000011930                PROVIDE (__flash_rodata_start, LOADADDR (.rodata))
+
+.rwdata         0x0000000000011b34      0x100
+                0x0000000000011b34                PROVIDE (__ram_rwdata_start, ABSOLUTE (.))
+                0x0000000000011b34                . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000000000011b34        0x0 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .data          0x0000000000011b34        0x0 obj/default/main.o
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .data          0x0000000000011b34        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000011b34       0xe0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .data          0x0000000000011c14        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .data          0x0000000000011c14        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .data          0x0000000000011c14        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000000000011c14        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .data          0x0000000000011c14        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000000000019c14                _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp, _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata         0x0000000000011c14        0x4 obj/default/main.o
+                0x0000000000011c14                time_sleep
+ .sdata._global_impure_ptr
+                0x0000000000011c18        0x4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000011c18                _global_impure_ptr
+ .sdata._impure_ptr
+                0x0000000000011c1c        0x4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                0x0000000000011c1c                _impure_ptr
+ .sdata         0x0000000000011c20        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000011c20                alt_priority_mask
+ .sdata         0x0000000000011c24        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+                0x0000000000011c24                jtag_uart
+ .sdata         0x0000000000011c28        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+                0x0000000000011c28                alt_errno
+ .sdata         0x0000000000011c2c        0x8 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+                0x0000000000011c2c                alt_alarm_list
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000000000011c34                . = ALIGN (0x4)
+                0x0000000000011c34                _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata, ABSOLUTE (.))
+                0x0000000000011c34                PROVIDE (__ram_rwdata_end, ABSOLUTE (.))
+                0x0000000000011b34                PROVIDE (__flash_rwdata_start, LOADADDR (.rwdata))
+
+.bss            0x0000000000011c34      0x124
+                0x0000000000011c34                __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start, ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start, ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss          0x0000000000011c34        0x8 obj/default/main.o
+                0x0000000000011c34                edge_capture
+                0x0000000000011c38                global_edge_capture
+ .sbss          0x0000000000011c3c        0x4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                0x0000000000011c3c                errno
+ .sbss          0x0000000000011c40        0x4 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000000000011c40                alt_irq_active
+ .sbss          0x0000000000011c44        0xc ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+                0x0000000000011c44                alt_argc
+                0x0000000000011c48                alt_argv
+                0x0000000000011c4c                alt_envp
+ .sbss          0x0000000000011c50        0x8 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+                0x0000000000011c50                _alt_tick_rate
+                0x0000000000011c54                _alt_nticks
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end, ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end, ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .bss           0x0000000000011c58        0x0 obj/default/main.o
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000000000011c58        0x0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .bss           0x0000000000011c58        0x0 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ *(COMMON)
+ COMMON         0x0000000000011c58      0x100 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+                0x0000000000011c58                alt_irq
+                0x0000000000011d58                . = ALIGN (0x4)
+                0x0000000000011d58                __bss_end = ABSOLUTE (.)
+
+.memory         0x0000000000011d58        0x0
+                [!provide]                        PROVIDE (_alt_partition_memory_start, ABSOLUTE (.))
+ *(.memory .memory. memory.*)
+                0x0000000000011d58                . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_memory_end, ABSOLUTE (.))
+                0x0000000000011d58                _end = ABSOLUTE (.)
+                0x0000000000011d58                end = ABSOLUTE (.)
+                0x0000000000011d58                __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_memory_load_addr, LOADADDR (.memory))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x23
+ *(.comment)
+ .comment       0x0000000000000000       0x23 obj/default/main.o
+                                         0x24 (size before relaxing)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x0000000000000023       0x24 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .comment       0x0000000000000023       0x24 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x408
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x20 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x20 obj/default/main.o
+ .debug_aranges
+                0x0000000000000040       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_aranges
+                0x0000000000000060       0x28 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_aranges
+                0x0000000000000088       0x28 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_aranges
+                0x00000000000000b0       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_aranges
+                0x00000000000000d0       0x30 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_aranges
+                0x0000000000000100       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x0000000000000120       0x18 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000138       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_aranges
+                0x0000000000000158       0x18 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_aranges
+                0x0000000000000170       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x0000000000000190       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x00000000000001b0       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x00000000000001d0       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000000000001f0       0x30 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x0000000000000220       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x0000000000000240       0x18 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x0000000000000258       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x0000000000000278       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x0000000000000298       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .debug_aranges
+                0x00000000000002b8       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x00000000000002d8       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x00000000000002f8       0x20 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x0000000000000318       0x20 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x0000000000000338       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x0000000000000358       0x18 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x0000000000000370       0x38 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x00000000000003a8       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000000000003c8       0x20 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000000000003e8       0x20 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x49b6
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x84 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .debug_info    0x0000000000000084      0x181 obj/default/main.o
+ .debug_info    0x0000000000000205      0x119 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_info    0x000000000000031e      0x699 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_info    0x00000000000009b7      0x66d c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_info    0x0000000000001024       0xc9 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_info    0x00000000000010ed      0xb2b c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_info    0x0000000000001c18      0x62b c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_info    0x0000000000002243      0x5a9 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_info    0x00000000000027ec      0x630 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_info    0x0000000000002e1c       0x8a c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_info    0x0000000000002ea6      0x2c6 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x000000000000316c       0xb4 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x0000000000003220      0x350 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x0000000000003570      0x1ef ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x000000000000375f       0x89 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00000000000037e8      0x187 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x000000000000396f       0x88 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00000000000039f7      0x145 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x0000000000003b3c      0x11e ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x0000000000003c5a       0xf5 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .debug_info    0x0000000000003d4f      0x1a0 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x0000000000003eef      0x188 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x0000000000004077      0x195 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x000000000000420c      0x226 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x0000000000004432       0x92 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x00000000000044c4       0xa6 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x000000000000456a       0x8f ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x00000000000045f9       0x92 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x000000000000468b      0x299 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x0000000000004924       0x92 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug_abbrev   0x0000000000000000     0x1b93
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x14 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000000000000014       0xdd obj/default/main.o
+ .debug_abbrev  0x00000000000000f1       0x9c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_abbrev  0x000000000000018d      0x1ee c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_abbrev  0x000000000000037b      0x1d6 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_abbrev  0x0000000000000551       0x7f c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_abbrev  0x00000000000005d0      0x2a1 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_abbrev  0x0000000000000871      0x1bc c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x0000000000000a2d      0x14a c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000b77      0x1a6 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_abbrev  0x0000000000000d1d       0x37 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_abbrev  0x0000000000000d54      0x10e c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x0000000000000e62       0x6f c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x0000000000000ed1      0x163 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x0000000000001034      0x169 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x000000000000119d       0x12 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x00000000000011af      0x122 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x00000000000012d1       0x40 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x0000000000001311       0x9f ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x00000000000013b0       0xa9 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x0000000000001459       0x99 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .debug_abbrev  0x00000000000014f2       0xf9 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x00000000000015eb       0xf2 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x00000000000016dd       0xd5 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00000000000017b2      0x155 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x0000000000001907       0x42 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x0000000000001949       0x5a ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x00000000000019a3       0x12 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00000000000019b5       0x42 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00000000000019f7      0x15a ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x0000000000001b51       0x42 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug_line     0x0000000000000000     0x1e56
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x54 ../nios2leds_BSP//obj/HAL/src/crt0.o
+ .debug_line    0x0000000000000054      0x101 obj/default/main.o
+ .debug_line    0x0000000000000155      0x15e c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_line    0x00000000000002b3      0x203 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_line    0x00000000000004b6      0x206 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_line    0x00000000000006bc      0x15c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_line    0x0000000000000818      0x351 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_line    0x0000000000000b69      0x1f0 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_line    0x0000000000000d59      0x156 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+ .debug_line    0x0000000000000eaf      0x1ed c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_line    0x000000000000109c       0x5f c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+ .debug_line    0x00000000000010fb      0x105 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x0000000000001200       0x80 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x0000000000001280       0xeb ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x000000000000136b       0xdb ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x0000000000001446       0x6b ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00000000000014b1       0xaa ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x000000000000155b       0x50 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00000000000015ab       0x8e ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x0000000000001639       0x99 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x00000000000016d2       0x48 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .debug_line    0x000000000000171a      0x159 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x0000000000001873      0x104 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x0000000000001977       0xf4 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000000000001a6b       0xfd ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x0000000000001b68       0x51 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000000000001bb9       0x51 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x0000000000001c0a       0xad ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000000000001cb7       0x4f ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x0000000000001d06       0xff ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x0000000000001e05       0x51 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug_frame    0x0000000000000000      0x714
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x8c obj/default/main.o
+ .debug_frame   0x000000000000008c       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_frame   0x00000000000000ac       0x48 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_frame   0x00000000000000f4       0x48 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_frame   0x000000000000013c       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_frame   0x000000000000015c       0x8c c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_frame   0x00000000000001e8       0x58 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_frame   0x0000000000000240       0x38 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_frame   0x0000000000000278       0x50 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x00000000000002c8       0x20 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x00000000000002e8       0xa4 ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x000000000000038c       0x38 ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x00000000000003c4       0x38 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x00000000000003fc       0x5c ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000000000000458       0x38 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x0000000000000490       0x38 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+ .debug_frame   0x00000000000004c8       0x60 ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x0000000000000528       0x60 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x0000000000000588       0x34 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000000000005bc       0x60 ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x000000000000061c       0x34 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000000000000650       0x34 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x0000000000000684       0x5c ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x00000000000006e0       0x34 ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+
+.debug_str      0x0000000000000000     0x1325
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x155 obj/default/main.o
+                                        0x1b4 (size before relaxing)
+ .debug_str     0x0000000000000155      0x14e c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+                                        0x1f3 (size before relaxing)
+ .debug_str     0x00000000000002a3      0x3d7 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+                                        0x504 (size before relaxing)
+ .debug_str     0x000000000000067a       0x63 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+                                        0x4cd (size before relaxing)
+ .debug_str     0x00000000000006dd       0x3d c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+                                        0x1e5 (size before relaxing)
+ .debug_str     0x000000000000071a      0x1f8 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+                                        0x67f (size before relaxing)
+ .debug_str     0x0000000000000912       0x63 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+                                        0x4d4 (size before relaxing)
+ .debug_str     0x0000000000000975       0xef c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-impure.o)
+                                        0x4be (size before relaxing)
+ .debug_str     0x0000000000000a64       0x45 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+                                        0x4b8 (size before relaxing)
+ .debug_str     0x0000000000000aa9       0x3f c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-int_errno.o)
+                                        0x1d8 (size before relaxing)
+ .debug_str     0x0000000000000ae8      0x187 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                        0x1d2 (size before relaxing)
+ .debug_str     0x0000000000000c6f       0x40 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                        0x193 (size before relaxing)
+ .debug_str     0x0000000000000caf      0x14f ../nios2leds_BSP/\libhal_bsp.a(alt_iic.o)
+                                        0x250 (size before relaxing)
+ .debug_str     0x0000000000000dfe       0x4c ../nios2leds_BSP/\libhal_bsp.a(alt_iic_isr_register.o)
+                                        0x1fa (size before relaxing)
+ .debug_str     0x0000000000000e4a       0x3a ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+                                        0x1a9 (size before relaxing)
+ .debug_str     0x0000000000000e84       0x17 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_vars.o)
+                                        0x14c (size before relaxing)
+ .debug_str     0x0000000000000e9b       0xe9 ../nios2leds_BSP/\libhal_bsp.a(alt_load.o)
+                                        0x224 (size before relaxing)
+ .debug_str     0x0000000000000f84       0x70 ../nios2leds_BSP/\libhal_bsp.a(alt_main.o)
+                                        0x1a8 (size before relaxing)
+ .debug_str     0x0000000000000ff4       0x68 ../nios2leds_BSP/\libhal_bsp.a(alt_putstr.o)
+                                        0x19b (size before relaxing)
+ .debug_str     0x000000000000105c       0x2c ../nios2leds_BSP/\libhal_bsp.a(alt_write.o)
+                                        0x1f0 (size before relaxing)
+ .debug_str     0x0000000000001088       0xb8 ../nios2leds_BSP/\libhal_bsp.a(alt_sys_init.o)
+                                        0x253 (size before relaxing)
+ .debug_str     0x0000000000001140       0x2c ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                        0x227 (size before relaxing)
+ .debug_str     0x000000000000116c       0x7f ../nios2leds_BSP/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                        0x25d (size before relaxing)
+ .debug_str     0x00000000000011eb       0x34 ../nios2leds_BSP/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                        0x167 (size before relaxing)
+ .debug_str     0x000000000000121f       0x14 ../nios2leds_BSP/\libhal_bsp.a(alt_errno.o)
+                                        0x157 (size before relaxing)
+ .debug_str     0x0000000000001233       0x34 ../nios2leds_BSP/\libhal_bsp.a(alt_icache_flush_all.o)
+                                        0x167 (size before relaxing)
+ .debug_str     0x0000000000001267       0x83 ../nios2leds_BSP/\libhal_bsp.a(alt_tick.o)
+                                        0x264 (size before relaxing)
+ .debug_str     0x00000000000012ea       0x3b ../nios2leds_BSP/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                        0x16e (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x131a
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x135 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_loc     0x0000000000000135       0xc6 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_loc     0x00000000000001fb       0x97 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_loc     0x0000000000000292       0x1e c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_loc     0x00000000000002b0      0x954 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_loc     0x0000000000000c04      0x110 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_loc     0x0000000000000d14       0xa5 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_loc     0x0000000000000db9      0x4ce c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loc     0x0000000000001287       0x93 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-mul.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x0000000000000000       0x10
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x0000000000000000       0x10 ../nios2leds_BSP//obj/HAL/src/crt0.o
+                0x0000000000020000                __alt_data_end = 0x20000
+                0x0000000000020000                PROVIDE (__alt_stack_pointer, __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit, __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start, end)
+                [!provide]                        PROVIDE (__alt_heap_limit, 0x20000)
+OUTPUT(nios2leds_APP.elf elf32-littlenios2)
+
+.debug_ranges   0x0000000000000000      0x218
+ .debug_ranges  0x0000000000000000       0x10 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-memcpy.o)
+ .debug_ranges  0x0000000000000010       0x18 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-printf.o)
+ .debug_ranges  0x0000000000000028       0x18 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-puts.o)
+ .debug_ranges  0x0000000000000040       0x10 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-strlen.o)
+ .debug_ranges  0x0000000000000050       0xc8 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-vfprintf.o)
+ .debug_ranges  0x0000000000000118       0x28 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-fvwrite_small_dev.o)
+ .debug_ranges  0x0000000000000140       0x10 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(lib_a-writer.o)
+ .debug_ranges  0x0000000000000150       0x60 c:/quartus/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/5.3.0/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_ranges  0x00000000000001b0       0x28 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000000000001d8       0x10 ../nios2leds_BSP/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_ranges  0x00000000000001e8       0x30 ../nios2leds_BSP/\libhal_bsp.a(alt_exception_entry.o)

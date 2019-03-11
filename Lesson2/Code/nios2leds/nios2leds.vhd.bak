@@ -1,0 +1,62 @@
+library IEEE;
+use IEEE.std_logic_1164.all;
+use IEE.numeric_std.all;
+
+entity nios2leds_top is
+	port (
+			clk : in  std_logic;         -- clk
+			sw  : in std_logic_vector (3 downto 0);
+			key : in std_logic_vector (1 downto 0);
+			LED : out std_logic_vector (7 downto 0)
+			);
+end entity nios2leds_top;
+
+
+
+architecture structure of nios2leds_top is
+
+	signal debounced_key: std_logic_vector(1 downto 0);
+	signal por_rest : std_logic;
+	signal por_rest_n : std_logic;
+	
+	component HostSystem is
+		port (
+			clk_clk                              : in  std_logic                    := 'X';             -- clk
+			dipsw_pio_external_connection_export : in  std_logic_vector(3 downto 0) := (others => 'X'); -- export
+			led_pio_external_connection_export   : out std_logic_vector(7 downto 0);                    -- export
+			reset_reset_n                        : in  std_logic                    := 'X';             -- reset_n
+			key_pio_external_connection_export   : in  std_logic_vector(1 downto 0) := (others => 'X')  -- export
+		);
+	end component HostSystem;
+	
+	component debounce is
+		GENERIC ( WIDTH : INTEGER :=2;
+					 POLARITY : STRING := "LOW";
+					 TIMEOUT : INTEGER := 50000;
+					 TIMEOUTH_WIDTH : INTEGER := 16
+					 );
+					 
+		PORT(
+			clk : in std_logic;
+			reset_n : in std_logic;
+			data_in : in std_logic_vector(WIDTH-1 DOWNTO 0);
+			data_out : out std_logic_vector(WIDTH-1 DOWNTO 0)
+			);
+			
+			
+	end component debounce;
+		
+		
+		component POR
+			PORT(
+					clk : in std_logic;
+					por_out : out std_logic
+					);
+		end component POR;
+		
+begin
+	por_reset_n <= not por_reset;
+	u0 : HostSystem port map (clk, por_reset_n, SW, debounced_key, LED);
+	u1 : debounce port map (clk, por_reset_n, KEY, debounced_key);
+	u2 : POR port map (clk, por_reset);
+end architecture structure;

@@ -1,0 +1,13 @@
+vendor_name = ModelSim
+source_file = 1, D:/Personal/School/Embedded systems/Week 1/fullAdder/fullAdder.bdf
+source_file = 1, D:/Personal/School/Embedded systems/Week 1/fullAdder/db/fullAdder.cbx.xml
+design_name = fullAdder
+instance = comp, \Sum1~output , Sum1~output, fullAdder, 1
+instance = comp, \Sum2~output , Sum2~output, fullAdder, 1
+instance = comp, \Carry1~output , Carry1~output, fullAdder, 1
+instance = comp, \B2~input , B2~input, fullAdder, 1
+instance = comp, \A2~input , A2~input, fullAdder, 1
+instance = comp, \A1~input , A1~input, fullAdder, 1
+instance = comp, \B1~input , B1~input, fullAdder, 1
+instance = comp, \inst14~0 , inst14~0, fullAdder, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, fullAdder, 1

@@ -1,0 +1,417 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "hex_0_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_0_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_1_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_2_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_3_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_4_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_5_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_6_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "hex_7_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_RS",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_RW",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_E",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "lcd_external_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "clk_clk",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[4]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[5]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[6]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[7]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[16]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[17]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[8]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[9]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[10]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[11]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[12]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[13]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[14]",
+					"strict" : false
+				},
+				{
+					"name" : "switch_external_connection_export[15]",
+					"strict" : false
+				},
+				{
+					"name" : "keys_external_connection_export[0]",
+					"strict" : false
+				},
+				{
+					"name" : "keys_external_connection_export[1]",
+					"strict" : false
+				},
+				{
+					"name" : "keys_external_connection_export[2]",
+					"strict" : false
+				},
+				{
+					"name" : "keys_external_connection_export[3]",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tms",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tck",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdi",
+					"strict" : false
+				},
+				{
+					"name" : "altera_reserved_tdo",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
